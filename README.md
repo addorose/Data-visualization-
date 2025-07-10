@@ -1,7 +1,6 @@
 <img width="1339" height="544" alt="Screenshot (360)" src="https://github.com/user-attachments/assets/0a8be0e0-6f36-4e6f-a0bb-91af238176d2" />
 
-# Data-visualization-
-Sales Data Visualization with Python
+# Sales Data Visualization with Python
 
 # Project Overview
 This project focuses on analyzing and visualizing sales data using Python. The goal was to explore sales trends across the week and extract actionable insights using effective data analysis and visualization techniques.
